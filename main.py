@@ -3,7 +3,7 @@ import os
 
 dictionary = PyDictionary()
 
-term_size = os.get_terminal_size()
+# term_size = os.get_terminal_size()
 
 # translation
 # Synonym
